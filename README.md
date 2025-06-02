@@ -1,4 +1,4 @@
-# 🧾 SpeedOrder AI
+# 🧾 Uribe SpeedScan AI
 
 **SpeedOrder AI** es una aplicación móvil construida con Flutter que digitaliza órdenes de servicio físicas mediante inteligencia artificial. Captura una foto de una hoja de orden, extrae automáticamente los datos importantes y los guarda en una base de datos como Google Sheets, Firebase o Supabase.
 
